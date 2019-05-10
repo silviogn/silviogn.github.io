@@ -1,6 +1,6 @@
 ## Introduction
 
-Hi I'm Silvio professor as IFSUL.
+Hi, I'm Silvio professor as IFSUL.
 
 This github page describes some of my work in, academic area, data scienc, coding interests and practices. 
 
